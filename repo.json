@@ -5,7 +5,7 @@
     "Name": "226 Club Interactive",
     "InternalName": "SamplePlugin",
     "AssemblyVersion": "0.0.0.2",
-    "Description": "Interactive venue games, chip wallets, Lucky Reels, progressive jackpots, and more.",
+    "Description": "Interactive venue games, chip wallets, Blackjack, Lucky Reels, progressive jackpots, staff management, and more for 226 Club.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/AlarielleWhispertail/226-Club-",
     "DownloadLinkInstall": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
@@ -15,4 +15,3 @@
     "Punchline": "Interactive furniture and venue activities for 226 Club."
   }
 ]
-
