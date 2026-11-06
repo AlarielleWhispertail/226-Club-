@@ -5,23 +5,15 @@
     "Name": "226 Club Interactive",
     "InternalName": "SamplePlugin",
     "AssemblyVersion": "0.0.0.3",
-    "Description": "Interactive drinks menus, multiplayer darts, blackjack, and venue activities for the 226 Club roleplay venue.",
+    "LastUpdate": 1793980800,
+    "Description": "Interactive drinks menus, multiplayer darts, blackjack, Lucky Reels, chip wallets, and venue activities for 226 Club.",
     "ApplicableVersion": "any",
-    "Tags": [
-      "roleplay",
-      "venue",
-      "housing"
-    ],
+    "RepoUrl": "https://github.com/AlarielleWhispertail/226-Club-",
+    "DownloadLinkInstall": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
     "DalamudApiLevel": 15,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Interactive furniture and venue activities for 226 Club.",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/benshaf1890/226-Club/releases/download/latest/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/benshaf1890/226-Club/releases/download/latest/latest.zip",
-    "DownloadLinkTesting": "https://github.com/benshaf1890/226-Club/releases/download/latest/latest.zip",
-    "LastUpdate": 1794001920
+    "Punchline": "Interactive furniture and venue activities for 226 Club."
   }
 ]
+
