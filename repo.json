@@ -1,0 +1,17 @@
+
+[
+  {
+    "Author": "226 Club",
+    "Name": "226 Club Interactive",
+    "InternalName": "Club226Interactive",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Interactive venue games, chip wallets, Lucky Reels, progressive jackpots, and more.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/AlarielleWhispertail/226-Club-",
+    "DownloadLinkInstall": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
+    "DalamudApiLevel": 15,
+    "Punchline": "The interactive gaming experience for 226 Club."
+  }
+]
