@@ -1,3 +1,4 @@
+
 [
   {
     "Author": "AlarielleWhispertail",
@@ -9,10 +10,10 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/AlarielleWhispertail/226-Club-",
-    "DownloadLinkInstall": "https://github.com/AlarielleWhispertail/226-Club-/releases/download/latest/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AlarielleWhispertail/226-Club-/releases/download/latest/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AlarielleWhispertail/226-Club-/releases/download/latest/latest.zip",
-    "LastUpdate": "2026-11-06T21:12:00-05:00",
+    "DownloadLinkInstall": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
+    "LastUpdate": 1794017520,
     "Tags": [
       "roleplay",
       "venue",
@@ -20,4 +21,5 @@
     ]
   }
 ]
+
 
