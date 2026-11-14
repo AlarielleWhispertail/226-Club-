@@ -4,7 +4,7 @@
     "Author": "AlarielleWhispertail",
     "Name": "226 Club Interactive",
     "InternalName": "SamplePlugin",
-    "AssemblyVersion": "0.0.0.17",
+    "AssemblyVersion": "0.0.0.18",
     "Description": "Interactive drinks menus and venue activities for the 226 Club roleplay venue.",
     "Punchline": "Interactive furniture and venue activities for 226 Club.",
     "ApplicableVersion": "any",
@@ -13,7 +13,7 @@
     "DownloadLinkInstall": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/AlarielleWhispertail/226-Club-/releases/latest/download/latest.zip",
-    "LastUpdate": 1794616800,
+    "LastUpdate": 1794619424,
     "Tags": [
       "roleplay",
       "venue",
